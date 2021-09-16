@@ -1,4 +1,4 @@
-# nuclei-image-segmentation
+# Advanced Nuclei Image Segmentation from State-of-the-Art Computer Vision Models
 
 
 ## _Models Architecture_
