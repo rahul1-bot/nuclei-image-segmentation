@@ -1,5 +1,10 @@
 # Advanced Nuclei Image Segmentation from State-of-the-Art Computer Vision Models
 
+## _Authors_
+* Rahul Sawhney <sup>1</sup>
+* Purvit Vashishtha <sup>1</sup>
+* Arun Kothari <sup>1</sup>
+* Vibhu Gupta <sup>1</sup>
 
 ## _Models Architecture_
 * UNet
