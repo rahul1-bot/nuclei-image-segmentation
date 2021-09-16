@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-__authors__: list[str] = ['Rahul Sawhney', '...']
+__authors__: list[str] = ['Rahul Sawhney', 'Purvit Vashishtha', 'Arun Kothari', 'Vibhu Gupta']
 
 __doc__: str = r'''
     Patent Title: Advanced Nuclei Image Segmentation from State-of-the-Art Computer Vision Models
