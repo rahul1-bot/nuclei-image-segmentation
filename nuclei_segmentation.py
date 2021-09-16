@@ -11,7 +11,7 @@ __doc__: str = r'''
 '''
 
 import warnings, os, copy, time
-from tqdm import tqdm
+from typing import Optional
 warnings.filterwarnings('ignore')
 
 import numpy as np
