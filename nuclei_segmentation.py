@@ -1,15 +1,5 @@
 from __future__ import annotations
 
-__authors__: list[str] = ['Rahul Sawhney', 'Purvit Vashishtha', 'Arun Kothari', 'Vibhu Gupta']
-
-__doc__: str = r'''
-    Patent Title: Advanced Nuclei Image Segmentation from State-of-the-Art Computer Vision Models
-    Patent Abstract: ...
-    patent Results: ...
-    Patent Conclusion: ...
-
-'''
-
 import warnings, os, copy, time
 from typing import Optional
 warnings.filterwarnings('ignore')
@@ -484,5 +474,4 @@ class Model():
 
 #@: driver Code
 if __name__.__contains__('__main__'):
-    print('Code Still left...')
     ...
